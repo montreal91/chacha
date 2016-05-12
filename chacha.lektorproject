@@ -1,0 +1,5 @@
+[project]
+name = chacha
+
+[servers.ghpages]
+target = ghpages+https://montreal91/chacha

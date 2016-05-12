@@ -1,0 +1,7 @@
+_model: page
+---
+title: Parabolic
+---
+body: *This is **Parabola**!*
+---
+_discoverable: yes
