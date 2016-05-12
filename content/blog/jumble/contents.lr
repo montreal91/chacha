@@ -2,7 +2,19 @@ title: Jumble
 ---
 author: montreal
 ---
-body: This is jumble!
+body:
+
+This is jumble!
+Try to add some `code`
+
+    #include <iostream>
+
+    int main( int argc, char* argv[] ) {
+        std::cout << "Hello, Lector!\n";
+        std::cout << "I can post code here!\n";
+        return 1;
+    }
+
 ---
 pub_date: 2016-5-12
 ---
