@@ -5,3 +5,7 @@ pub_date: 2016-05-10 07:53:22 UTC
 author: montreal
 ---
 body: This is an example blog post.  Not much here but that's not the point :)
+---
+summary: Hello, Lektor!
+---
+twitter_handle: _montreal__

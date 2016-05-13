@@ -1,1 +1,5 @@
 _model: blog
+---
+body: This is my humble blog.
+---
+title: Blog
