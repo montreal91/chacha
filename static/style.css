@@ -6,3 +6,8 @@
 .my-font {
     font-family: "Droid Sans", sans-serif;
 }
+
+.summary {
+    /*font-weight: bold;*/
+    font-size: 20px;
+}
