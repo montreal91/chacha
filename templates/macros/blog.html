@@ -23,6 +23,9 @@
     </div>
     {% if full_text %}
       {{ post.body }}
+      {% for image in post.attachments.images %}
+        <p><img src="{{ image|url }}"></p>
+      {% endfor %}
     {% endif %}
   </div>
 </div>
